@@ -1,2 +1,3 @@
-# image_to_ascii
-Convert an image to ASCII art
+# Image to ASCII
+
+Convert an image to ASCII art using c++
